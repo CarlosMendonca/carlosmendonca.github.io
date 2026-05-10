@@ -3,3 +3,14 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
