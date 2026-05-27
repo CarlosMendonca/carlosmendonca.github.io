@@ -10,4 +10,4 @@ permalink: /
 
 # Hi!
 
-My name is Carlos and I'm a Computer Engineer from Brazil. I work as a Product Manager at Google AI in New York. Previously I worked for Facebook's and Microsoft's business applications product areas. You can find me on [Twitter](https://twitter.com/chemendonca){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/carlosmendonca){:target="_blank"} and [GitHub](https://github.com/CarlosMendonca){:target="_blank"}.
+My name is Carlos and I'm a Computer Engineer from Brazil. I work as a Product Manager at Google in New York. Previously I worked for Facebook's and Microsoft's business applications product areas. You can find me on [Twitter](https://twitter.com/chemendonca){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/carlosmendonca){:target="_blank"} and [GitHub](https://github.com/CarlosMendonca){:target="_blank"}.
