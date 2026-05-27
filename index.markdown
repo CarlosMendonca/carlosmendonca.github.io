@@ -6,7 +6,7 @@ description: "About"
 permalink: /
 ---
 
-![](../assets/headshot.jpg){:height="200px" width="200px" style="object-fit:cover; border-radius:50%"}
+![](../assets/headshot_banff_zoom.jpeg){:height="200px" width="200px" style="object-fit:cover; border-radius:50%"}
 
 # Hi!
 
